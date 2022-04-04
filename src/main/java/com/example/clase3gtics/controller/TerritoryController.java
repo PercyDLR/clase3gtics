@@ -1,8 +1,8 @@
-package com.example.clase2gtics.controller;
+package com.example.clase3gtics.controller;
 
-import com.example.clase2gtics.entity.Territory;
-import com.example.clase2gtics.repository.RegionRepository;
-import com.example.clase2gtics.repository.TerritoryRepository;
+import com.example.clase3gtics.entity.Territory;
+import com.example.clase3gtics.repository.RegionRepository;
+import com.example.clase3gtics.repository.TerritoryRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

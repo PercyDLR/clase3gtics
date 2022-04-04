@@ -1,4 +1,4 @@
-package com.example.clase2gtics.entity;
+package com.example.clase3gtics.entity;
 
 import javax.persistence.*;
 
